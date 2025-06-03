@@ -36,8 +36,8 @@ This site showcases my skills, projects, and experience as a Frontend Developer.
 📬 Contact
 
 Email: apal63216@gmail.com
-LinkedIn: linkedin.com/in/ashish-pal
-GitHub: github.com/ashishpal
+LinkedIn: [linkedin.com/in/ashish-pal-373a5b2a6/]
+GitHub: [github.com/apal632162006]
 
 📄 License
 
