@@ -6,7 +6,7 @@ This site showcases my skills, projects, and experience as a Frontend Developer.
 ## 🚀 Live Demo
 
 [View Portfolio Live](https://ashish-pal-portfolio-site.lovable.app/)
-
+[View Portfolio Live](http://127.0.0.1:5500/index.html)
 ---
 
 ## 📂 Project Structure
